@@ -10,7 +10,7 @@ def maxSubArraySum(a,size):
         curr_max = max(a[i], curr_max+a[i])
         max_so_far = max(max_so_far, curr_max)
    
-   return max_so_far
+   return max_so_far 
    
 n = input()
 a = raw_input().split()
