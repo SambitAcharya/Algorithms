@@ -12,4 +12,10 @@ def maxSubArraySum(a,size):
    
    return max_so_far
    
+n = input()
+a = raw_input().split()
+a = [int(i) for i in a]
+print maxSubArraySum(a,len(a))
+
+   
 
