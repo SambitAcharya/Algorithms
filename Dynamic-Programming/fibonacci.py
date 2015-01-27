@@ -3,3 +3,11 @@ def fib(n):
    for i in range(2,n+1):
 	      f.append(f[i-1]+f[i-2])
    return f[n]
+
+def main():
+   
+   n = input()
+   term = fib(n)
+   print term
+
+main()
