@@ -13,4 +13,6 @@ Code written by me for implementing popular algorithms
 ## Dynamic Programming
 
 * Maximum Sub-Array
+* Knapsack
+* Fibonacci
 
