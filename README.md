@@ -18,5 +18,5 @@ Code written by me for implementing popular algorithms
 
 ## String
 
-* KMP
+* KMP ( Knuth Morris Pratt ) Algorithm
 
