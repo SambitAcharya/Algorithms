@@ -15,6 +15,7 @@ Code written by me for implementing popular algorithms
 * Maximum Sub-Array
 * Knapsack
 * Fibonacci
+* Bellman Ford
 
 ## String
 
