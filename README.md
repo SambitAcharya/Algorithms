@@ -16,6 +16,7 @@ Code written by me for implementing popular algorithms
 * Knapsack
 * Fibonacci
 * Bellman Ford
+* Warshall's Algorithm
 
 ## String
 
