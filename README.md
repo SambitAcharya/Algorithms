@@ -16,3 +16,7 @@ Code written by me for implementing popular algorithms
 * Knapsack
 * Fibonacci
 
+## String
+
+* KMP
+
