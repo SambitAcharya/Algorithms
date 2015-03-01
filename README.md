@@ -17,6 +17,7 @@ Code written by me for implementing popular algorithms
 * Fibonacci
 * Bellman Ford
 * Warshall's Algorithm
+* Coin Change Problem
 
 ## String
 
