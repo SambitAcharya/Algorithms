@@ -13,3 +13,11 @@ def dpMakeChange(coinValueList,change,minCoins,coinsUsed):
       coinsUsed[cents] = newCoin
    
    return minCoins[change]
+
+def printCoins(coinsUsed,change):
+   coin = change
+   
+   while coin > 0:
+      thisCoin = coinsUsed[coin]
+      print(thisCoin)
+      coin = coin - thisCoin
