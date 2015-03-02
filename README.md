@@ -9,6 +9,7 @@ Code written by me for implementing popular algorithms
 * Insertion Sort
 * Selection Sort
 * Bubble Sort
+* Counting Sort
 
 ## Dynamic Programming
 
