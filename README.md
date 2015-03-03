@@ -8,7 +8,7 @@ Code written by me for implementing popular algorithms
 * Merge Sort
 * Insertion Sort
 * Selection Sort 
-* Bubble Sort
+* Bubble Sort 
 * Counting Sort
 
 ## Dynamic Programming
