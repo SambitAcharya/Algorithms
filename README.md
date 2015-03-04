@@ -3,7 +3,7 @@ Algorithms
 
 Code written by me for implementing popular algorithms
 
-## Sorting
+## Sorting 
 
 * Merge Sort
 * Insertion Sort
