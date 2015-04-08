@@ -36,3 +36,13 @@ def recurse(n,last):
 
  
   return last
+
+node0 = Node(4,None)
+node1 = Node(3,node0)
+node2 = Node(2,node1)
+node3 = Node(1,node2)
+ 
+
+prnt(node3)
+result = recurse(node3, None)
+prnt(result)
