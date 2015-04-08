@@ -32,7 +32,7 @@ def recurse(n,last):
     return last
   nxt = n.nxt
   n.nxt = last
-  return reverse(nxt, n)
+  return recurse(nxt, n)
 
  
   return last
