@@ -14,3 +14,16 @@ def prnt(n):
   print n.val
   if(nxt is not None):
     prnt(nxt)
+
+#Iterative
+def reverse(n):
+  last = None
+  current = n
+ 
+  while(current is not None):
+    nxt = current.nxt
+    current.nxt = last 
+    last = current
+    current = nxt
+ 
+  return last
