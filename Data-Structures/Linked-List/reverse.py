@@ -25,5 +25,14 @@ def reverse(n):
     current.nxt = last 
     last = current
     current = nxt
+    
+#Recursive
+def recurse(n,last):
+  if n is None:
+    return last
+  nxt = n.nxt
+  n.nxt = last
+  return reverse(nxt, n)
+
  
   return last
