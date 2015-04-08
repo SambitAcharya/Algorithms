@@ -1,3 +1,16 @@
 '''
+
 Python program to reverse a linked list
+
 '''
+
+class Node:
+  def __init__(self,val,nxt):
+    self.val = val
+    self.nxt = nxt
+ 
+def prnt(n):
+  nxt = n.nxt
+  print n.val
+  if(nxt is not None):
+    prnt(nxt)
